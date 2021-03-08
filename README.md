@@ -1,2 +1,2 @@
 # PatternInJava
-It contain different types of pattern
+It contain different types of pattern of star
