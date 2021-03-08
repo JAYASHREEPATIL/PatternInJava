@@ -1,5 +1,5 @@
 import java.util.*;
-
+//i am modify
 public class DiamomdStar
 {
 	public static void main(String argsp[])
