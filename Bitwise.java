@@ -1,5 +1,6 @@
 import java.util.*;
 //in dev change
+//again change in dev
 public class Bitwise
 {
 	public static void main(String args[])
